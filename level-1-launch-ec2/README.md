@@ -33,8 +33,8 @@ Create and run your first virtual computer in AWS.
 
 4. **Network Settings:**
    - **Create security group:** `zth-security-group`
-   - **Allow:** SSH (port 22) from **"My IP"**   
-     [Screencast from 2026-01-10 12-20-59.webm](https://github.com/user-attachments/assets/9a7374b8-97ce-445b-95b1-5415e0af32da)
+   - **Allow:** SSH (port 22) from **"My IP"**
+     <video width="1911" height="934" alt="image(3)" src="https://github.com/user-attachments/assets/9a7374b8-97ce-445b-95b1-5415e0af32da" />
 
 5. **Launch Instance**
    <img width="1907" height="902" alt="image(3)" src="https://github.com/user-attachments/assets/7bbd59a1-7752-4a1b-988e-c7f074abaa4b" />

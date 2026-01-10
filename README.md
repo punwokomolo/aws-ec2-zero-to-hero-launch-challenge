@@ -39,6 +39,7 @@ What You'll Learn
 - **AWS Account** (Free tier eligible)
 - **Basic terminal knowledge** (helpful but not required)
 - **Computer** with internet access
+- **Software**: if using thw Windows OS, download [Git Bash](https://git-scm.com/install/windows)
 - **Enthusiasm** to learn cloud computing!
 
 **Cost Estimate:** $0 if using AWS Free Tier correctly (t2.micro instance)

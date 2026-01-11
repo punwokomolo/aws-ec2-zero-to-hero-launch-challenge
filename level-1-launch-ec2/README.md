@@ -94,8 +94,9 @@ git push origin main
 - **instance-info.txt created**
 - **Files committed**
 
----
 
-#### 🏆 Badge Earned: 🟡 Instance Launcher
+🏆 Badge Earned: 🟡 Instance Launcher
+
+Fill in this form to receive your badge:https://forms.gle/bhpih5gcbtQ3w2fm6
 
 **Next:** → [Level 2](../level-2-connect-ssh/README.md)

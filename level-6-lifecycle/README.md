@@ -109,4 +109,6 @@ git push origin main
 
 ### 🏆 Badge Earned: 🟩 Lifecycle Commander
 
+Fill out this form to earn your badge: https://forms.gle/C6jcziHv615Zypug6
+
 **Next:** → [Level 7](../level-7-cost-optimization)

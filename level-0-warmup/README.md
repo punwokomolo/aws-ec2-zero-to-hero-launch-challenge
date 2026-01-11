@@ -51,5 +51,5 @@ git push origin main
 - All 5 terms defined  
 - File committed to repository  
 
-
+**Fill out this form to recieve your badge**: https://forms.gle/A8HMXPpkG1GN6C9WA
 **Next:** → [Level 1](../level-1-launch-ec2/README.md)

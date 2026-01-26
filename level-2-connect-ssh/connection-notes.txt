@@ -1,0 +1,4 @@
+OS Version: Amazon Linux 2023
+Kernel: 6.1.159-182.297.amzn2023.x86_64
+Username: ec2-user
+SSH Command Used: ssh -i ../level-1-launch-ec2/zth-keypair.pem ec2-user@3.238.252.184

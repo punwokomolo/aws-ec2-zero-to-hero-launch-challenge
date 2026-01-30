@@ -1,0 +1,4 @@
+Apache Install Status: Success
+Security Group Rule Added: Yes
+Webpage URL: http://ec2-54-221-10-190.compute-1.amazonaws.com/______________
+Key Lesson Learned: ___Cloud isn’t insecure — it’s secure by default.____________

@@ -1,0 +1,5 @@
+Volume ID: vol-027a05d24b6b2dfbc
+Size: 2 GB
+Mount Point: 3%/mydata
+File System: ext4
+Test File Created: Yes

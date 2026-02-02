@@ -1,0 +1,11 @@
+What happened to the Public IP when you stopped and started the instance?
+Answer: ___________it changes____________________________________
+
+What happened to the Public IP when you rebooted the instance?
+Answer: ____________it remain the same___________________________________
+
+Did your EBS volume data remain after stopping and starting?
+Answer: _______yes________________________________________
+
+What's the difference between Stop and Terminate?
+Answer: _stop means off the instance   while terminates means delete the instance______________________________________________

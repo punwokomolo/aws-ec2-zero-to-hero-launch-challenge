@@ -1,0 +1,10 @@
+What are Security Groups?
+Line 1: ______this are groups that decide how to enter ,leave and how to use the server _________________________________________
+Line 2: ____virtual firewalls that control inbound and outbound traffic for AWS resources, mainly EC2 instances.___________________________________________
+
+What I learned from the experiment:
+
+When I removed the HTTP (port 80) rule, the website stopped loading because inbound web traffic was blocked.
+After adding the HTTP rule back, the website loaded again, showing that security groups control access to resources.
+
+Master cloud firewalls through experimentation
